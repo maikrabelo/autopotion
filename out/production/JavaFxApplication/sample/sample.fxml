@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="203.0" prefWidth="278.0" xmlns="http://javafx.com/javafx/10.0.2-internal" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Button id="btn1" layoutX="33.0" layoutY="139.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="92.0" text="Ativar" />
+      <Button id="btn2" layoutX="153.0" layoutY="139.0" mnemonicParsing="false" prefHeight="50.0" prefWidth="92.0" text="Desativar" />
+      <Label layoutX="79.0" layoutY="29.0" text="Configurar AutoPotion" />
+      <TitledPane animated="false" layoutX="52.0" layoutY="-42.0" text="untitled" />
+      <TextField id="txt1" layoutX="33.0" layoutY="63.0" prefHeight="25.0" prefWidth="212.0" promptText="Delay em ms" text="5" />
+   </children>
+</Pane>
